@@ -61,22 +61,24 @@
 # tea_varieties[3]="herbal"
 # print(tea_varieties)
 
-tea_varieties=['black tea','green tea',"oolong",'white']
-# print(tea_varieties[1:2])
-# print(tea_varieties[1:2])=["lemon"]
-# print(tea_varieties[1:3])=["green","masala"]   yai do line shamj nhi aai isse check karna hai 
-# print(tea_varieties[1:1])
+# tea_varieties=['black tea','green tea',"oolong",'white']
+# # print(tea_varieties[1:2])
+# # print(tea_varieties[1:2])=["lemon"]
+# # print(tea_varieties[1:3])=["green","masala"]   yai do line shamj nhi aai isse check karna hai 
+# # print(tea_varieties[1:1])
 
 # print(tea_varieties)
 # tea_varieties.pop()
 # print(tea_varieties)
 # tea_varieties.insert(1, "masala")
 # print(tea_varieties)
-tea_varieties_copy=tea_varieties.copy()
-print(tea_varieties_copy)
-tea_varieties_copy.append("lemon")
-print(tea_varieties_copy)
-print(tea_varieties)
+# tea_varieties_copy=tea_varieties.copy()
+# print(tea_varieties_copy)
+# tea_varieties_copy.append("lemon")
+# print(tea_varieties_copy)
+# print(tea_varieties)
+
+# squared_nums=[x**2 for x in range(10)]  
 
 
 

@@ -58,7 +58,23 @@
 # print(dict)
 
 #Ek string "hello world" ko uppercase aur lowercase dono me print karo.
-text="hello WORlD"
+# text="hello WORlD"
 
-print(text.upper())
-print(text.lower())
+# print(text.upper())
+# print(text.lower())
+
+
+#28 september ------
+
+# x=4
+# x="shally"
+# print(x)
+
+#If you want to specify the data type of a variable, this can be done with casting
+x=str(3)
+print(repr(x))
+x=float(3)
+print(x)
+x=int(3)
+print(x)
+
