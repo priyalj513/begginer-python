@@ -121,25 +121,26 @@
 #   print(year,"is not a leap year")
 
 
-#Q10 Food recommendation
-#Recommend a type of pet food based on the pet's species and age 
-#(e.g dog<2 years-puppyfood,cat>5 years-senior cat-senior cat food)
-species=input("enter pet species: ")
-age=int(input("enter pet age in years: "))
+# #Q10 Food recommendation
+# #Recommend a type of pet food based on the pet's species and age 
+# #(e.g dog<2 years-puppyfood,cat>5 years-senior cat-senior cat food)
+# species=input("enter pet species: ")
+# age=int(input("enter pet age in years: "))
 
-if species=="dog":
-    if age<=2:
-        print("Recommended food:puppy food")
-    elif age>=5:
-        print("Recommended food : adult dog food: ")
-    else:
-        print("senior dog food: ")
-elif species=="cat":
-    if age<5:
-        ("kitten food")
-    elif age>=5:
-        ("adult cat food")
-    else:
-        ("senior cat food")
-else:
-    print("sorry,food recommendatio not available for this species")
+# if species=="dog":
+#     if age<=2:
+#         print("Recommended food:puppy food")
+#     elif age>=5:
+#         print("Recommended food : adult dog food: ")
+#     else:
+#         print("senior dog food: ")
+# elif species=="cat":
+#     if age<5:
+#         ("kitten food")
+#     elif age>=5:
+#         ("adult cat food")
+#     else:
+#         ("senior cat food")
+# else:
+#     print("sorry,food recommendatio not available for this species")
+
