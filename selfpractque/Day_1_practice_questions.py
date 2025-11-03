@@ -49,16 +49,16 @@ print("After swappng:a=",a,",b=",b)
 
 #Q8 Q: Create 2 variables: length = 10, width = 5.
 # Print the area and perimeter of a rectangle.
-length,breadth=10,5
-area=length*breadth
-perimeter=2*(length+breadth)
-print("area of rectangle is:",area)
-print("perimeter of rectangle is:",perimeter)
+# length,breadth=10,5
+# area=length*breadth
+# perimeter=2*(length+breadth)
+# print("area of rectangle is:",area)
+# print("perimeter of rectangle is:",perimeter)
 
 #Q9 is_python_fun = True, is_java_easy = False.
 # Print both and their types.
-is_python=True
-is_java_easy=False
-print(is_python,",",is_java_easy)
-print(type(is_python))
-print(type(is_java_easy))
+# is_python=True
+# is_java_easy=False
+# print(is_python,",",is_java_easy)
+# print(type(is_python))
+# print(type(is_java_easy))

@@ -28,7 +28,6 @@
 # name=input("enter your name ")
 # print("Hello",name)
 # age=int(input("enter your edge "))
-# print("you are",age,"year old")
 
 # #another way
 # print(f"Hello {name}","you are {age} years old")
